@@ -1,0 +1,50 @@
+name: estella.hickle
+description: Expanded
+version: 0.0.1
+author: yaxc2nm8.jcrtthja@mjxtawvl.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: estellahickle
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:28:11'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:28:11'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:28:11.96307Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1053838739'
+  createdAt: '2025-09-19T23:28:11.96307Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
